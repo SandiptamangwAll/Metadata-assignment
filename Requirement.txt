@@ -1,0 +1,6 @@
+exif=1.6.1
+Pillow=12.1.1
+
+pip install exif pillow
+
+pip install bash requirement.txt

@@ -1,0 +1,222 @@
+{
+    "filename": "IMG_20230302_155243.jpg",
+    "risk_level": "Risk Score: LOW - No immediate privacy risk",
+    "extracted_at": "2026-03-01T15:10:32.624733",
+    "tags": [
+        {
+            "name": "image_width",
+            "value": "3264",
+            "group": "Image"
+        },
+        {
+            "name": "image_height",
+            "value": "2448",
+            "group": "Image"
+        },
+        {
+            "name": "resolution_unit",
+            "value": "2",
+            "group": "Image"
+        },
+        {
+            "name": "image_description",
+            "value": "",
+            "group": "Image"
+        },
+        {
+            "name": "make",
+            "value": "Xiaomi",
+            "group": "Image"
+        },
+        {
+            "name": "model",
+            "value": "22071219CI",
+            "group": "Image"
+        },
+        {
+            "name": "software",
+            "value": "MediaTek Camera Application",
+            "group": "Image"
+        },
+        {
+            "name": "datetime",
+            "value": "2023:03:02 15:52:43",
+            "group": "Exif"
+        },
+        {
+            "name": "y_and_c_positioning",
+            "value": "2",
+            "group": "Image"
+        },
+        {
+            "name": "_exif_ifd_pointer",
+            "value": "392",
+            "group": "Exif"
+        },
+        {
+            "name": "x_resolution",
+            "value": "72.0",
+            "group": "Image"
+        },
+        {
+            "name": "y_resolution",
+            "value": "72.0",
+            "group": "Image"
+        },
+        {
+            "name": "jpeg_interchange_format",
+            "value": "3665",
+            "group": "Image"
+        },
+        {
+            "name": "jpeg_interchange_format_length",
+            "value": "25344",
+            "group": "Image"
+        },
+        {
+            "name": "compression",
+            "value": "6",
+            "group": "Image"
+        },
+        {
+            "name": "recommended_exposure_index",
+            "value": "0",
+            "group": "Image"
+        },
+        {
+            "name": "sensitivity_type",
+            "value": "0",
+            "group": "Image"
+        },
+        {
+            "name": "photographic_sensitivity",
+            "value": "56",
+            "group": "Image"
+        },
+        {
+            "name": "exposure_program",
+            "value": "0",
+            "group": "Image"
+        },
+        {
+            "name": "f_number",
+            "value": "2.05",
+            "group": "Image"
+        },
+        {
+            "name": "exposure_time",
+            "value": "0.009997",
+            "group": "Image"
+        },
+        {
+            "name": "subsec_time_digitized",
+            "value": "815",
+            "group": "Image"
+        },
+        {
+            "name": "subsec_time_original",
+            "value": "815",
+            "group": "Image"
+        },
+        {
+            "name": "subsec_time",
+            "value": "815",
+            "group": "Image"
+        },
+        {
+            "name": "focal_length",
+            "value": "2.785",
+            "group": "Image"
+        },
+        {
+            "name": "flash",
+            "value": "Flash(flash_fired=False, flash_return=FlashReturn.NO_STROBE_RETURN_DETECTION_FUNCTION, flash_mode=Fl",
+            "group": "Image"
+        },
+        {
+            "name": "light_source",
+            "value": "255",
+            "group": "Image"
+        },
+        {
+            "name": "metering_mode",
+            "value": "2",
+            "group": "Image"
+        },
+        {
+            "name": "scene_capture_type",
+            "value": "0",
+            "group": "Image"
+        },
+        {
+            "name": "focal_length_in_35mm_film",
+            "value": "0",
+            "group": "Image"
+        },
+        {
+            "name": "max_aperture_value",
+            "value": "2.0",
+            "group": "Image"
+        },
+        {
+            "name": "datetime_digitized",
+            "value": "2023:03:02 15:52:43",
+            "group": "Exif"
+        },
+        {
+            "name": "exposure_bias_value",
+            "value": "0.0",
+            "group": "Image"
+        },
+        {
+            "name": "digital_zoom_ratio",
+            "value": "1.0",
+            "group": "Image"
+        },
+        {
+            "name": "pixel_y_dimension",
+            "value": "2448",
+            "group": "Image"
+        },
+        {
+            "name": "white_balance",
+            "value": "0",
+            "group": "Image"
+        },
+        {
+            "name": "datetime_original",
+            "value": "2023:03:02 15:52:43",
+            "group": "Exif"
+        },
+        {
+            "name": "brightness_value",
+            "value": "10.9",
+            "group": "Image"
+        },
+        {
+            "name": "pixel_x_dimension",
+            "value": "3264",
+            "group": "Image"
+        },
+        {
+            "name": "exposure_mode",
+            "value": "0",
+            "group": "Image"
+        },
+        {
+            "name": "color_space",
+            "value": "1",
+            "group": "Image"
+        },
+        {
+            "name": "shutter_speed_value",
+            "value": "6.643",
+            "group": "Image"
+        },
+        {
+            "name": "exif_version",
+            "value": "0220",
+            "group": "Exif"
+        }
+    ]
+}

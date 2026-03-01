@@ -1,0 +1,58 @@
+
+### Dependencies
+
+```text
+exif
+Pillow
+
+Install with:
+Bashpip install -r requirements.txt
+Installation & Usage
+
+Clone the repository:Bashgit clone https://github.com/[your-classroom-org]/[your-repo-name].git
+cd [your-repo-name]
+Install dependencies:Bashpip install exif Pillow
+Run the application:Bashpython main.py
+Usage steps:
+Click Select Single Image or Select Folder (Batch)
+View extracted metadata and risk score
+Click Sanitize & Save Cleaned Image to remove sensitive tags
+Click Export JSON Report to save forensic documentation
+
+
+Project Structure
+textforensics-metadata-tool/
+├── main.py                 # Main GUI application
+├── requirements.txt        # Dependencies
+├── README.md               # This file
+├── screenshots/            # (optional) GUI screenshots
+└── tests/                  # (future) unit tests
+Testing
+
+Unit tests planned for MetadataTag and MetadataExtractor classes
+Manual testing performed on:
+Images with full EXIF (GPS present)
+Images without metadata
+Corrupted / invalid files
+
+Achieved stable extraction and sanitization on sample JPEGs
+
+Limitations & Future Improvements
+
+Supports only JPEG/TIFF (EXIF carriers)
+Batch processing limited to first 5 files (demo mode)
+No support for HEIC, WebP, PNG (XMP/IPTC)
+Risk scoring is rule-based (can be enhanced with ML)
+Future: recursive folder scan, tampering detection, CLI mode
+
+GitHub Classroom Commit History
+All development tracked with meaningful commits.
+See the Commits tab for full history (28+ commits during development).
+Demonstration Video
+A 10-minute video walkthrough is submitted separately, showing:
+
+Repository overview
+Running the application
+Loading & extracting metadata
+Sanitizing an image
+Exporting JSON report

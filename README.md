@@ -1,13 +1,3 @@
-# Network Forensics Image Metadata Tool
-
-**A GUI-based Python application for extracting, analyzing, sanitizing, and reporting EXIF metadata from images in cybersecurity and digital forensics contexts.**
-
-**Module:** ST4017CMD – Introduction to Programming  
-**Submitted by:** Sandip  
-**Student ID:**250589
-**Institution:** Softwarica College of IT & E-Commerce / Coventry University  
-**Date:** March 2026
-
 ## Project Overview
 
 This tool helps ethical hackers, incident responders, and digital forensics analysts quickly inspect and clean sensitive metadata (especially GPS location, device fingerprints, and editing history) from JPEG/TIFF images before sharing or including them in reports.

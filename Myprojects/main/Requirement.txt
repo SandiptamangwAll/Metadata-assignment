@@ -1,7 +1,0 @@
-# requirements.txt - pinned versions (tested March 2026)
-exif==1.6.1
-Pillow==12.1.1
-
-pip install -r requirements.txt
-
-pip install exif Pillow
